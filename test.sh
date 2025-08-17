@@ -514,6 +514,7 @@ new_config = '''config = {
                         "youtube.com", "youtu.be",
                         "discord.com", 
                         "instagram.com",
+                        "whatsapp.com",
                         "googlevideo.com",
                         "ytimg.com",
                         "gstatic.com",
