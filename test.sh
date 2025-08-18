@@ -512,8 +512,9 @@ new_config = '''config = {
                     "type": "field",
                     "domain": [
                         "youtube.com","youtu.be",
-                        "discord.com",
-                        "instagram.com",
+                        "discord.com", "discordapp.com",
+                        "instagram.com", "cdninstagram.com",
+                        "telegram.org", "t.me", "telegram.me"
                         "whatsapp.com",
                         "googlevideo.com",
                         "ytimg.com",
